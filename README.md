@@ -17,5 +17,9 @@ we use the phones accelerometer and gyro to get the values of range of motion of
 - we have implemented method of least squares and other mathematical modelling techiniques to do this
 - bases on the previous sessions the patient used the app the goals are changed
 
+![Image of device](images/1.jpg)
+![Image of device](images/Capture.jpg)
+![Image of device](images/elbowextensor.jpg)
+
 
 

@@ -12,10 +12,10 @@ we use the phones accelerometer and gyro to get the values of range of motion of
 4. thorugh Mathematical Modelling the goals and healing factor is obtained
 
 ##technology behing it
--pt motion is not a dumb rule engine based application
--the goals calculated for the patient is dynamic
--we have implemented method of least squares and other mathematical modelling techiniques to do this
--bases on the previous sessions the patient used the app the goals are changed
+- pt motion is not a dumb rule engine based application
+- the goals calculated for the patient is dynamic
+- we have implemented method of least squares and other mathematical modelling techiniques to do this
+- bases on the previous sessions the patient used the app the goals are changed
 
 
 

@@ -19,7 +19,7 @@ we use the phones accelerometer and gyro to get the values of range of motion of
 
 ![Image of device](images/1.jpg)
 ![Image of device](images/Capture.jpg)
-![Image of device](images/elbowextensor.jpg)
+![Image of device](images/elbowextensor1.jpg)
 
 
 
